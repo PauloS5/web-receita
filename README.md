@@ -1,3 +1,9 @@
-# Páginas para Receitas
+# Projeto Receita
+**Time:** `WebDevs`
 
-Adicionar a descrição aqui!
+## Descrição
+Projeto desenvolvido para praticar **Git/Github** no WebAcademy da UFAC.
+
+## Desenvolvedores
+- Paulo Sócrates
+- davi 
