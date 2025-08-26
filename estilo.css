@@ -5,6 +5,6 @@ body {
     margin: 0;
     padding: 1rem;
 }
-h2 {
+h1, h2 {
     color: blue;
 }
